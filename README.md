@@ -1,5 +1,5 @@
 ## 主理人说
-1. Folk 来自神机规则，毒奶自用；
+1. Folk 来自神机规则以及毒奶，修改会后自用；
 3. 如你需要 **自行搭配** 使用神机规则，请访问神机源仓库 https://github.com/ConnersHua/Profiles/tree/master ；
 
 ## 毒奶专用分流规则
@@ -190,97 +190,4 @@ Android：[Kitsunebi](https://play.google.com/store/apps/details?id=fun.kitsuneb
 
 副作用为 macOS 及 iOS 12 以前的系统地图会变成海外 TOMTOM 版。
 
-[关于解锁 Apple News 区域限制](https://chua.pro/unlock-apple-news-regional-restrictions/)
-
-> 6.Clash 连接不上内网服务器
-
-移除掉配置内的 DNS 配置。
-
-> 7.打开「淘宝」等阿里巴巴系应用时遇到「访问被拒绝」、「请检查是否使用了代理」等提示
-
-部分「阿里云」节点会导致此问题，如遇此问题主节点换成其他的。
-
-> 8.使用 Quantumult 打开淘宝、微信缓慢，邮件收发异常
-
-将「更多」里「高级」下的「模块」中选择「TUN + HTTP(Loopback)」。
-
-> 9.关于 Speedtest 想直连/代理？
-
-规则对于 Speedtest 不是绝对的直连也不是绝对的代理，对于国内测速点是直连，对于国外测速点是代理。
-
-默认打开  Speedtest 会自动选择适用于代理服务器节点的国外测速节点，若要进行国内网速测试手动修改「测速点」搜索你所在城市或省会的拼音然后选择运营商即可。
-
-------
-
-
-
-### 关于去广告
-
-#### ⚠️ 为什么 Youtube、知乎、微博等应用（存在于 MitM 域名列表）无法使用？
-
-1. 开启「HTTPS 解密(MitM)」功能
-2. 安装证书
-3. **到系统「设置 > 通用 > 关于本机」中底部的「证书信任设置」中信任所安装的证书！**
-
-#### 为什么某应用还是有广告
-
-**1.缓存**
-
-有些应用会**将广告缓存**，如果在使用规则前应用就已经缓存了广告，所以你需要：
-
-1. 应用内设置里清除缓存。
-2. 但有的应用并不会清除广告的缓存，所以需要将应用删除重装。
-
-⚠️ 广告加载是实时的，这就意味着：
-
-- 需要实时开着类 Surge 应用托管网络
-- 即便一直开着，但在遇到信号断开重连、蜂窝数据和 Wi-Fi 网络切换时会有一些网络请求先于类 Surge 应用加载导致广告出现，怎么办？看上面两步。
-
-**2.功能**
-
-广告阻止不仅于使用 [Rule] 规则，有的广告需要 [URL Rewrite] 和 [MITM]，这就意味着：
-
-- Kitsunebi 不支持 [URL Rewrite] 和 [MITM]
-- Quantumult 虽然支持 [URL Rewrite] 和 [MITM]，但需要在「更多 > 附加功能」中开启「激进阻止」以开启更全面的支持否则同 Surge 效果一样，另外 Quantumult 对于 IP 的 Server Name 不会进行 MitM，所以对于个别应用如瑞幸咖啡也无效。
-- Shadowrocket 的 [MITM] 功能不稳定影响正常功能，已从规则配置中移除，不再支持。
-- Surfboard 仅支持 [URL Rewrite] 且仅支持 302 没有阻止功能
-- Surge 虽然支持 [URL Rewrite] 和 [MITM]，但对于个别应用如优酷、腾讯视频（部分）的请求（TUN）无法处理。
-
-**3.规则不是万能的**
-
-不是所有广告都能简单的依靠规则阻止。
-
-**4.其他**
-
-> Youtube 去广告会造成以下问题
-
-- 网页版可能无法正常播放
-- YouTube Premium 用户无法正常播放
-- Quantumult 遇到片头广告时可能会卡黑屏
-
-所以默认并没有启用，如果仍需启用需在「HTTPS 解密(MitM)」的「主机名」列表中添加：
-
-```
-*.googlevideo.com
-```
-
-------
-
-
-
-## 感谢
-
-- [lhie1](https://github.com/lhie1)
-- Lison Bin
-- [linjiacheng](https://github.com/linjiacheng)
-- Booui
-- liceva
-- [JO2EY](https://github.com/JO2EY) 
-- [Choler](https://github.com/Choler)
-- [xream](https://github.com/xream)
-- [gkeyes](https://github.com/gkeyes)
-
-## 许可
-
-转载需注明作者及项目地址
-
+[关于解锁 Apple News 区域限制](https://chua.pro
