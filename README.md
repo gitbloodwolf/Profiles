@@ -1,5 +1,5 @@
 ## 主理人说
-1. Folk 来自神机规则以及毒奶，修改会后自用；
+1. Folk 来自神机规则以及毒奶，修改后自用；
 3. 如你需要 **自行搭配** 使用神机规则，请访问神机源仓库 https://github.com/ConnersHua/Profiles/tree/master ；
 
 ## 毒奶专用分流规则
