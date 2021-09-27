@@ -1,4 +1,3 @@
-
 # > ivan专用
 # > 专为各大机场定制
 # > 9.27.2021
@@ -100,7 +99,6 @@ DOMAIN-KEYWORD,jinkela,PROXY
 DOMAIN-SUFFIX,v2ray.life,PROXY
 DOMAIN-SUFFIX,izclass,PROXY
 DOMAIN-KEYWORD,izclass,PROXY
-DOMAIN-KEYWORD,cmpassport,DIRECT
 
 # Google Analytics
 HOST,analyticsmobile-pa.googleapis.com,PROXY
