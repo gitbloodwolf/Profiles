@@ -2,7 +2,7 @@
 1. Folk 来自神机规则以及毒奶，修改后自用；
 3. 如你需要 **自行搭配** 使用神机规则，请访问神机源仓库 https://github.com/ConnersHua/Profiles/tree/master ；
 
-## 毒奶专用分流规则
+## 分流规则
 https://github.com/limbopro/Profiles/tree/master/limbopro
 
 1. 为了应对突发情况，例如机场域名被污染/墙而无法打开，在此我（提前）为各个机场写了分流规则（订阅即可使用）
@@ -13,7 +13,7 @@ https://github.com/limbopro/Profiles/tree/master/limbopro
 ## Quantumultx 预配置文件解锁🔓各项姿势（VSCO/Tiktok/Terimius...）
 https://github.com/limbopro/Profiles/tree/master/limbopro/Gift/Without/unzip
 
-### 毒奶预配置文件（unzip版）说明
+### 预配置文件（unzip版）说明
 
 0. 利用 Quantumult X 自带的 [配置文件] - [下载] 功能对 Quantumult X 各个模块即参数进行预配置；
 1. 利用 NobyDa 贡献的脚本解锁🔓各项事务，VSCO，Termius，等；
