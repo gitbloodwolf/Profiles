@@ -1,15 +1,24 @@
 # 愛閱書香App去廣告分流 
 # Update time : 2021.9.28
 
-host,passcallback.eyugame.com,REJECT
-host,googleads.g.doubleclick.net,REJECT
-host,www.dvpnjs.top,REJECT
-host,uop.umeng.com,REJECT
-host,api.applovefrom.com,REJECT
-host,alogs.umeng.com,REJECT
-host,alogs.umengcloud.com,REJECT
-host,app-measurement.com,REJECT
-host,api.applovefrom.com,REJECT
+host, sf3-be-pack.pglstatp-toutiao.com,REJECT
+host, tnc3-aliec2.snssdk.com,REJECT
+host, api-access.pangolin-sdk-toutiao.com,REJECT
+host, tnc3-aliec2.snssdk.com,REJECT
+host, qzs.gdtimg.com,REJECT
+host, sf6-be-pack.pglstatp-toutiao.com,REJECT
+host, mssdk-bu.snssdk.com,REJECT
+host, log-api.pangolin-sdk-toutiao.com,REJECT
+host, sf3-fe-tos.pglstatp-toutiao.com,REJECT
+host, passcallback.eyugame.com,REJECT
+host, googleads.g.doubleclick.net,REJECT
+host, www.dvpnjs.top,REJECT
+host, uop.umeng.com,REJECT
+host, api.applovefrom.com,REJECT
+host, alogs.umeng.com,REJECT
+host, alogs.umengcloud.com,REJECT
+host, app-measurement.com,REJECT
+host, api.applovefrom.com,REJECT
 host,appapisdk.tanv.com,REJECT
 host,appsdk.tanv.com,REJECT
 host,extlog.snssdk.com,REJECT
