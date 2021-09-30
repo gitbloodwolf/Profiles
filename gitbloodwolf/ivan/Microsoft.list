@@ -46,6 +46,12 @@ host-suffix,microsoftiotcentral.com,Microsoft
 host-suffix,serverlesslibrary.net,Microsoft
 host-suffix,tryfunctions.com,Microsoft
 
+## >> Bethesda
+host-suffix,beth.games,Microsoft
+host-suffix,bethesda.net,Microsoft
+host-suffix,bethesdagamestudios.com,Microsoft
+host-suffix,bethsoft.com,Microsoft
+
 # > Bing
 host-keyword,Bing,Microsoft
 host-keyword,biying,Microsoft
@@ -98,6 +104,30 @@ host-suffix,sprinklesapp.com,Microsoft
 host-suffix,working-bing-int.com,Microsoft
 host-suffix,emoi-cncdn.bing.com,Microsoft
 
+# > Cortana
+host-suffix,cortana.ai,Microsoft
+host-suffix,cortanaanalytics.com,Microsoft
+host-suffix,cortanaskills.com,Microsoft
+
+# > Edge
+host-suffix,a-msedge.net,Microsoft
+host-suffix,c-msedge.net,Microsoft
+host-suffix,e-msedge.net,Microsoft
+host-suffix,edgesuite.net,Microsoft
+host-suffix,evoke-windowsservices-tas.msedge,Microsoft
+host-suffix,microsoftedge.com,Microsoft
+host-suffix,microsoftedgeinsider.com,Microsoft
+host-suffix,msedge.net,Microsoft
+host-suffix,s-msedge.net,Microsoft
+
+# > Here
+host-keyword,Here,Microsoft
+host-suffix,heremaps.cn,Microsoft
+host-suffix,ovi.com.cn,Microsoft
+
+## >> M12
+host-suffix,femalefounderscomp.com,Microsoft
+host-suffix,m12.vc,Microsoft
 
 # > Hotmail & Outlook
 host-keyword,hotmail,Microsoft
@@ -112,6 +142,23 @@ host-suffix,windowslive.cn,Microsoft
 host-suffix,wlxrs.com,Microsoft
 host-suffix,livefilestore.com,Microsoft
 
+# > Mojang
+host-suffix,callersbane.com,Microsoft
+host-suffix,minecraft.net,Microsoft
+host-suffix,minecraftshop.com,Microsoft
+host-suffix,mojang.com,Microsoft
+
+# > MSN
+host-keyword,microsoftnews,Microsoft
+host-keyword,microsoft-online,Microsoft
+host-keyword,microsoftnewsforkids,Microsoft
+host-keyword,microsoftnewskids,Microsoft
+host-keyword,microsoftol,Microsoft
+host-keyword,msn,Microsoft
+host-keyword,msnewskids,Microsoft
+host-suffix,microsoftusercontent.com,Microsoft
+host-suffix,msnkids.com,Microsoft
+host-suffix,winmp.cn,Microsoft
 
 # > Microsoft Developer
 host-keyword,microsoftreactor,Microsoft
@@ -182,10 +229,11 @@ host-keyword,1drv,Microsoft
 host-keyword,sharepoint,Microsoft
 host-suffix,sharepointonline.com,Microsoft
 host-suffix,svc.ms,Microsoft
+
+DOMAIN-SUFFIX,1drv.com,OneDrive
 DOMAIN-SUFFIX,onedrive.com,OneDrive
 DOMAIN-SUFFIX,storage.live.com,OneDrive
 DOMAIN,oneclient.sfx.ms,OneDrive
-
 
 # > OneNote
 host-keyword,onenote,Microsoft
@@ -198,6 +246,16 @@ host-suffix,skypeforbusiness.com,Microsoft
 # > Store
 host-keyword,microsoftstore,Microsoft
 
+# > Sway
+host-suffix,sway-cdn.com,Microsoft
+host-suffix,sway-extensions.com,Microsoft
+host-suffix,sway.com,Microsoft
+
+# > VisualStudio
+host-keyword,visualstudio,Microsoft
+host-suffix,visualstudio-staging.com,Microsoft
+host-suffix,vsassets.io,Microsoft
+
 # > Xiaobing
 host-keyword,msminico,Microsoft
 host-suffix,aicscience.com,Microsoft
@@ -207,6 +265,26 @@ host-suffix,msxiaoice.com,Microsoft
 host-suffix,msxiaona.cn,Microsoft
 host-suffix,officeplus.cn,Microsoft
 host-suffix,renlifang.com,Microsoft
+
+# > Xbox 
+host-keyword,xbox,Microsoft
+host-keyword,xbox360,Microsoft
+host-keyword,xboxlive,Microsoft
+host-keyword,xboxone,Microsoft
+host-suffix,forzamotorsport.net,Microsoft
+host-suffix,forzaracingchampionship.com,Microsoft
+host-suffix,forzarc.com,Microsoft
+host-suffix,gamepass.com,Microsoft
+host-suffix,msgamestudios.com,Microsoft
+host-suffix,orithegame.com,Microsoft
+host-suffix,renovacionxboxlive.com,Microsoft
+host-suffix,tellmewhygame.com,Microsoft
+host-suffix,xboxab.com,Microsoft
+host-suffix,xboxgamepass.com,Microsoft
+host-suffix,xboxgamestudios.com,Microsoft
+host-suffix,xboxplayanywhere.com,Microsoft
+host-suffix,xboxstudios.com,Microsoft
+host-suffix,xbx.lv,Microsoft
 
 # > Others
 host-keyword,Applicationinsights,Microsoft
