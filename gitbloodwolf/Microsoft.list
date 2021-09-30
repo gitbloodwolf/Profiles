@@ -59,7 +59,6 @@ host-suffix,sprinklesapp.com,Microsoft
 host-suffix,working-bing-int.com,Microsoft
 host-suffix,emoi-cncdn.bing.com,Microsoft
 
-
 # > Edge
 host-suffix,a-msedge.net,Microsoft
 host-suffix,c-msedge.net,Microsoft
@@ -71,13 +70,11 @@ host-suffix,microsoftedgeinsider.com,Microsoft
 host-suffix,msedge.net,Microsoft
 host-suffix,s-msedge.net,Microsoft
 
-
 # > Hotmail & Outlook
 host-keyword,hotmail,Microsoft
 host-keyword,outlook,Microsoft
 host-suffix,outlookgroups.ms,Microsoft
 host-suffix,outlookmobile.com,Microsoft
-
 
 # > Live
 host-keyword,live,Microsoft
