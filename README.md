@@ -1,13 +1,18 @@
 神机规则
 https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf
+
 墨鱼配置2.0
 https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
+
 Orz-3
 https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Orz-3.conf
+
 yatta漫游小镇
 https://raw.githubusercontent.com/yawenchim/QuantumultX-mix/master/YattaQuanXCDN.conf
+
 w37fhy 北纬37度的大飛
 https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_diy.conf
+
 耳东橙
 https://raw.githubusercontent.com/erdongchanyo/Rules/main/Quantumult X/LazyConf/QuantumultX_EDC-Lazy.conf
 
