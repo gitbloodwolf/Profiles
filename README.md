@@ -1,4 +1,17 @@
-## 主理人说
+神机规则
+https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf
+墨鱼配置2.0
+https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
+Orz-3
+https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Orz-3.conf
+yatta漫游小镇
+https://raw.githubusercontent.com/yawenchim/QuantumultX-mix/master/YattaQuanXCDN.conf
+w37fhy 北纬37度的大飛
+https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_diy.conf
+耳东橙
+https://raw.githubusercontent.com/erdongchanyo/Rules/main/Quantumult X/LazyConf/QuantumultX_EDC-Lazy.conf
+
+
 1. Folk 来自神机规则以及毒奶，修改后自用；
 3. 如你需要 **自行搭配** 使用神机规则，请访问神机源仓库 https://github.com/ConnersHua/Profiles/tree/master ；
 
@@ -19,16 +32,6 @@ https://github.com/limbopro/Profiles/tree/master/limbopro/Gift/Without/unzip
 1. 利用 NobyDa 贡献的脚本解锁🔓各项事务，VSCO，Termius，等；
 2. 另外默认配置的是 🔓 美区App Store下载的 Tiktok；届时自己进 [QuantumultX] - [配置文件] - [编辑] - 找到 Tiktok 修改参数即可 
 3. Surge/Clash 用户可以使用由毒奶提供的 订阅转换 API，亦能获得相同的效果；https://limbopro.xyz/archives/subconverter.html
-
----
-
-## 后话
-
-如果你是第一次用 Github ，或许可以学下基础知识，以便更有效的使用 Github，GitHub 新手指南，从入门到放弃（5分钟教学，你也可以拥有自己的仓库）https://limbopro.xyz/archives/3856.html
-
-本站域名已于昨晚被墙，欢迎使用代理访问本站，参考视频设置规则以进行分流：https://t.me/limboprossr/809
-
-以上。
 
 ---
 
