@@ -1,0 +1,23 @@
+# Unbreak
+# > General
+host,wvcfg.alicdn.com,direct
+host,api.revenuecat.com,direct
+host,szmmsns.qpic.cn,direct
+host,shmmsns.qpic.cn,direct
+host,*.jddebug.com,direct
+host,m.360buyimg.com,direct
+host,apapia-history.manmanbuy.com,direct
+host,api.aliyundrive.com,direct
+host,*.12306.cn,direct
+host,sns.synology.com,direct
+host,*.synology.com,direct
+DOMAIN,api.day.app,DIRECT
+# > Google
+DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
+DOMAIN,analyticsinsights-pa.googleapis.com,PROXY
+DOMAIN,analyticsreporting.googleapis.com,PROXY
+DOMAIN,dl.google.com,DIRECT
+DOMAIN,mtalk.google.com,DIRECT
+# > Tencent
+DOMAIN,livew.l.qq.com,DIRECT
+DOMAIN,vd.l.qq.com,DIRECT
