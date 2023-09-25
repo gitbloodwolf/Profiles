@@ -11,6 +11,7 @@ host,api.aliyundrive.com,direct
 host,*.12306.cn,direct
 host,sns.synology.com,direct
 host,*.synology.com,direct
+# > Bark App
 DOMAIN,api.day.app,DIRECT
 # > Google
 DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
