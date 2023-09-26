@@ -8,7 +8,24 @@ host,*.jddebug.com,direct
 host,m.360buyimg.com,direct
 host,apapia-history.manmanbuy.com,direct
 host,api.aliyundrive.com,direct
+# > 12306
 host,*.12306.cn,direct
+HOST-SUFFIX,12306.cn,direct
+HOST-SUFFIX,95306.cn,direct
+HOST-SUFFIX,95572.com,direct
+HOST-SUFFIX,china-railway.com.cn,direct
+HOST-SUFFIX,china-ric.com,direct
+HOST-SUFFIX,crct.com,direct
+HOST-SUFFIX,cre.cn,direct
+HOST-SUFFIX,crecc.com.cn,direct
+HOST-SUFFIX,creip.cn,direct
+HOST-SUFFIX,crscl.com.cn,direct
+HOST-SUFFIX,gzrailway.com.cn,direct
+HOST-SUFFIX,nntlj.com,direct
+HOST-SUFFIX,peoplerail.com,direct
+HOST-SUFFIX,rails.cn,direct
+HOST-SUFFIX,tdpress.com,direct
+# > synology
 host,sns.synology.com,direct
 host,*.synology.com,direct
 # > Bark App
